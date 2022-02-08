@@ -4,4 +4,4 @@
   
 [![Jair Deon Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=jairdeon&layout=compact&theme=dark)](https://github.com/jairdeon)
 
-![Snake animation](https://github.com/rodrigoczlopes/rodrigoczlopes/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/jairdeon/rodrigoczlopes/blob/output/github-contribution-grid-snake.svg)
